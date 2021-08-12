@@ -1,71 +1,114 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Yihan Li",
+    "occupation": "A CS master from UW Madison",
+    "description": "I enjoy data engineering and app developing",
+    "image": "YihanProfile.jpg",
+    "bio": "Hi there! I am Yihan! I'm a master student from the department of computer science from University of Wisconsin - Madison. I used to be a Ph.D. student from environmental science, however along the journey I realised my passion existed in creating software that can solve real world problems. With this passion, I have now served my community by web applications about course reviews of UW Madison, local social life, video game assistants, and more as a full stack developer.",
+    "contactmessage": "Get in touch with me to talk about possible work opportunities!",
+    "email": "yihan.li@wisc.edu",
+    "phone": "+1 7347809367",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "University of Wisconsin",
+      "city": "Madison",
+      "state": "WI",
+      "zip": "53705"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/yihan-li-0629a8105/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "GitHub",
+        "url": "https://github.com/yh-li",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100006340539843",
+        "className": "fa fa-facebook"
+      },
+
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/liyihan_/",
+        "className": "fa fa-instagram"
+      },
+
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/YihanLi12",
+        "className": "fa fa-twitter"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "University of Wisconsin - Madison",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "Expected May 2022"
+      },
+      {
+        "school": "Nanjing University",
+        "degree": "Bachelor's Degree, Life Science",
+        "graduated": "July 2015",
+        "description": "Chair of Student Goverment; Rewarded with Top National Scholarship"
+      },
+      {
+        "school": "University of Michigan - Ann Arbor",
+        "degree": "Master's Degree, Conservation Ecology",
+        "graduated": "August 2017"
+      },
+      {
+        "school": "University of Wisconsin - Madison",
+        "degree": "Ph.D., Environment and Resources",
+        "graduated": "Expected December 2021"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "GGLoL",
+        "title": "Full Stack Developer",
+        "years": "March 2021 - Present",
+        "description": "A web application for League of Legend players to visualize match history, most and best played champions, check statistics for any user specific to any champion and predict win rates by simulating real games."
+      },
+      {
+        "company": "Fitness Deliverer",
+        "title": "Full Stack Developer",
+        "years": "Jan 2021 - March 2021",
+        "description": "An eCommerce website application for fitness industry with full functionality including registering and logging in, adding products to carts, and checking out and making payments with real cards."
+      },
+      {
+        "company": "Caption This",
+        "title": "Full Stack Developer",
+        "years": "Aug 2020 - Dec 2020",
+        "description": "An Instagram-like website sharing interesting photos the caption of which will be the most liked comment."
+      },
+      {
+        "company": "Wiscourse",
+        "title": "Full Stack Developer",
+        "years": "Aug 2020 - Oct 2020",
+        "description": "A social network web application based on student reviews about courses in University of Wisconsin to help students learn what courses their peers took and how they rated the courses."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
         "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Java",
+        "level": "99%"
       },
       {
         "name": "Python",
@@ -75,10 +118,7 @@
         "name": "Git",
         "level": "70%"
       },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
+
       {
         "name": "Web Development",
         "level": "95%"
@@ -88,34 +128,29 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "the League of Legend Assistant",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "lol.jpg",
+        "url": "https://laughing-poitras-38ba9a.netlify.app/"
+      },
+
+      {
+        "title": "Fitness eCommerce",
+        "category": "",
+        "image": "fit.jpg",
+        "url": "https://fitness-deliverer-c88c7.firebaseapp.com/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Caption This (Instagram Clone)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "doge.jpg",
+        "url": "https://cap-this.firebaseapp.com/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Wiscourse (Course rating)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "image": "wiscourse.jpg",
+        "url": ""
       }
     ]
   }
